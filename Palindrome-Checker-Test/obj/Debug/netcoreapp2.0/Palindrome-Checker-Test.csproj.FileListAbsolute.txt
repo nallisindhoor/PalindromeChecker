@@ -1,0 +1,16 @@
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/Palindrome-Checker-Test.deps.json
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/Palindrome-Checker-Test.runtimeconfig.json
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/Palindrome-Checker-Test.runtimeconfig.dev.json
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/Palindrome-Checker-Test.dll
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/Palindrome-Checker-Test.pdb
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/Palindrome-Checker.dll
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/bin/Debug/netcoreapp2.0/Palindrome-Checker.pdb
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/obj/Debug/netcoreapp2.0/Palindrome-Checker-Test.csprojResolveAssemblyReference.cache
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/obj/Debug/netcoreapp2.0/Palindrome-Checker-Test.csproj.CoreCompileInputs.cache
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/obj/Debug/netcoreapp2.0/Palindrome-Checker-Test.AssemblyInfoInputs.cache
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/obj/Debug/netcoreapp2.0/Palindrome-Checker-Test.AssemblyInfo.cs
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/obj/Debug/netcoreapp2.0/Palindrome-Checker-Test.dll
+/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker-Test/obj/Debug/netcoreapp2.0/Palindrome-Checker-Test.pdb

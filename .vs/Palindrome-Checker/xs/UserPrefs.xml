@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{79D50EC6-58BB-48BC-BC0B-51B2DB6E349D}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Palindrome-Checker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Palindrome-Checker-Test/UnitTest1.cs">
+    <Files>
+      <File FileName="Palindrome-Checker/Program.cs" Line="15" Column="59" />
+      <File FileName="Palindrome-Checker/Error.cs" Line="22" Column="1" />
+      <File FileName="Palindrome-Checker-Test/UnitTest1.cs" Line="43" Column="30" />
+      <File FileName="Palindrome-Checker/StringWorks.cs" Line="38" Column="9" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sindhoor/Documents/Projects/Tests/Palindrome-Checker/Palindrome-Checker/StringWorks.cs" relfile="Palindrome-Checker/StringWorks.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Palindrome-Checker-Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
